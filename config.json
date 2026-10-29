@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
+  "serverHost": "Zenith6700-sieJ-cPGa.aternos.me:12503",
+  "serverPort": 12503,
   "botUsername": "MyBot",
   "botChunk": 1
 }
